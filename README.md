@@ -38,4 +38,4 @@ This project uses the following key Node.js modules:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/umme-kulsum173>/Cafe-Delights.git
+   git clone https://github.com/umme-kulsum173/Cafe-Delights.git
